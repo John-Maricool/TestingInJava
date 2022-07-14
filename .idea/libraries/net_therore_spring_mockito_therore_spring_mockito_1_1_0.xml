@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.therore.spring.mockito:therore-spring-mockito:1.1.0" type="repository">
+    <properties maven-id="net.therore.spring.mockito:therore-spring-mockito:1.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/therore-spring-mockito-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
